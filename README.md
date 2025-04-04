@@ -17,7 +17,7 @@ Todo o pipeline foi implementado em um único notebook:
 - **Nome:** ObesityDataSet_raw_and_data_sinthetic.csv  
 - **Tarefa:** Classificação multiclasse  
 - **Target:** `NObeyesdad` (nível de obesidade, com 7 categorias)  
-- **Origem:** [Kaggle – Obesity Level Estimation](https://www.kaggle.com/datasets/mariaren/obesity-level-estimation)
+- **Origem:** [Kaggle – Obesity Level Estimation]([https://www.kaggle.com/datasets/mariaren/obesity-level-estimation](https://www.kaggle.com/datasets/adeniranstephen/obesity-prediction-dataset))
 
 ---
 
